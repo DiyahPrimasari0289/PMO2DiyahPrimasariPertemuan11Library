@@ -3,7 +3,7 @@
     package="com.example.pmo2diyahprimasaripertemuan11library">
 
     <application>
-        <activity android:name=".TentangDiyahPrimasari"></activity>
+        <activity android:name=".TentangDiyahPrimasari"/>
     </application>
 
 </manifest>

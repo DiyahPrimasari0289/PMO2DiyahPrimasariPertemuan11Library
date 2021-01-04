@@ -7,8 +7,7 @@ public class KirimPesan {
     Context context;
     String pesan;
 
-    public KirimPesan() {
-    }
+    public KirimPesan() {}
 
     public KirimPesan(Context context, String pesan) {
         this.context = context;
@@ -26,9 +25,11 @@ public class KirimPesan {
     public String getPesan() {
         return pesan;
     }
+
     public void setPesan(String pesan) {
         this.pesan = pesan;
     }
+
     public void Kirim(Context context,String pesan){
         Toast.makeText(context, pesan, Toast.LENGTH_SHORT).show();
     }

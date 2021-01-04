@@ -1,7 +1,6 @@
 package com.example.pmo2diyahprimasaripertemuan11library;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class TentangDiyahPrimasari extends AppCompatActivity {
