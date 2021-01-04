@@ -1,0 +1,3 @@
+include ':PMO2DiyahPrimasariPertemuan11Library'
+include ':app'
+rootProject.name = "PMO2DiyahPrimasariPertemuan11"
